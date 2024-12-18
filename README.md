@@ -57,7 +57,7 @@ Example datasets:
 
    ```bash
    git clone https://github.com/manangadhiya77/NLP-Project-Social-Media-Hate-Speech-Detection.git
-   cd NLP-project
+   cd NLP_NLP_project_(Main) (1).ipynb
    ```
 
 2. Prepare your dataset and place it in the `data/` directory.
